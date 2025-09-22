@@ -51,7 +51,7 @@ The dashboard highlights the following top-level metrics for the year:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Hemaannamdevula/sales-dashboard]
+    git clone https://github.com/Hemaannamdevula/sales-dashboard
     ```
 2.  **Open Power BI .**
 3.  Go to **Get Data** > **From Text/CSV** and select the `ecommerce_sales_analysis.csv` file.
