@@ -1,4 +1,4 @@
-<img width="1486" height="807" alt="Annual_Product_Performance_Report" src="https://github.com/user-attachments/assets/09f87a5b-087a-4059-a876-7e37d4637ec4" /># 📊 Annual Product Performance Dashboard
+# 📊 Annual Product Performance Dashboard
 
 ## Project Overview
 
