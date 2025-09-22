@@ -8,9 +8,7 @@ The goal is to identify key business trends related to revenue, sales volume, cu
 
 ## Dashboard Preview
 
-(<img width="1486" height="807" alt="Annual_Product_Performance_Report" src="https://github.com/user-attachments/assets/a46a7459-3e43-4dbc-8d17-9d041ee8a25f" />)
-
-*To correctly display the image, please ensure `Annual_Product_Performance_Report.png` is in the root directory of the repository.*
+<img width="1486" height="807" alt="Annual_Product_Performance_Report" src="https://github.com/user-attachments/assets/a46a7459-3e43-4dbc-8d17-9d041ee8a25f" />
 
 ## Tech Stack & Tools
 
